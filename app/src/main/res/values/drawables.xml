@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_home" type="drawable">@drawable/ic_home</item>
+    <item name="ic_menu_item" type="drawable">@drawable/ic_view_carousel_black_24dp</item>
+    <item name="ic_menu_account" type="drawable">@drawable/ic_users</item>
+    <item name="ic_menu_payment" type="drawable">@drawable/ic_bank</item>
+    <item name="ic_menu_cart" type="drawable">@drawable/ic_shopping_cart_black_24dp</item>
+
+    <item name="ic_menu_rating" type="drawable">@drawable/ic_star</item>
+    <item name="ic_menu_contact" type="drawable">@drawable/ic_smartphone</item>
+    <item name="ic_menu_logout" type="drawable">@drawable/ic_exit</item>
+
+</resources>
